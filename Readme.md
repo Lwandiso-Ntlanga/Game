@@ -1,4 +1,5 @@
 #Game
+\
 Game that lets the user navigate a helicopter to dodge missiles to win the game.\
 The user controls a single player which is a helicopter that can move in all directions available up, down, left and right around the screen. The helicopter object has to dodge all enemy objects in order to win the game.\
 \
